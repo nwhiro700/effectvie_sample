@@ -1,3 +1,3 @@
 # effectvie_sample
-effective javano
+effective java 
 自身の教育用
